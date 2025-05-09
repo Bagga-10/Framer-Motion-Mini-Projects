@@ -16,7 +16,7 @@ This repository contains a collection of mini projects built with [Framer Motion
   
 - **Progress Stepper**  
   Check out the live demo:  
-  [Progress Stepper Demo](https://framer-motion-mini-projects-p.vercel.app/fro)
+  [Progress Stepper Demo](https://framer-motion-mini-projects-p.vercel.app/)
 
 
 ## Setup Instructions
